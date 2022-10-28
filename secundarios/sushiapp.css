@@ -1,0 +1,71 @@
+body{
+    background-image: url(/images/fondos.png);
+    font-family: 'Dela Gothic One', cursive;
+}
+.scren{
+    position: absolute;
+    margin-top: 60px;
+ 
+}
+.home{
+    position: absolute;
+    margin-left: 90px;
+}
+.homes{
+    text-decoration: none;
+    color: white;
+}
+b{
+    color: #00FFD3;
+}
+h1{
+    color: white;
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 265px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+h2{
+    color: white;
+    position: absolute;
+    margin-top: 950px;
+    margin-left: 510px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+h3{
+    color: white;
+    position: absolute;
+    margin-top: 2000px;
+    margin-left: 300px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+h4, h5 {
+    color: white;
+    position: absolute;
+    margin-top: 2740px;
+    margin-left: 255px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+h5{
+    margin-left: 445px;
+    position: absolute;
+}
+.boton {
+    position:absolute;
+    margin-top: 2900px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 100px;
+    border-radius: 10px ;
+    transition: all;
+    -webkit-transition: all;
+    -moz-transition: all;
+    -ms-transition: all;
+    -o-transition: all;
+}

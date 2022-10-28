@@ -1,0 +1,114 @@
+body{
+    background-image: url(/images/fondos.png);
+    font-family: 'Dela Gothic One', cursive;
+}
+
+.scren{
+    position: absolute;
+    margin-top: 60px;
+}
+.home{
+    position: absolute;
+    margin-left: 90px;
+}
+.homes{
+    text-decoration: none;
+    color: white;
+}
+b{
+    color: #00FFD3;
+}
+h1{
+    color: white;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 350px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    text-align: center;
+}
+h2{
+    color: white;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 150px;
+    letter-spacing: 2px;
+    font-size: 18px;
+   
+}
+h3{
+    color: white;
+    position: absolute;
+    margin-top: 1450px;
+    margin-left: 150px;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
+h4{
+    color: white;
+    position: absolute;
+    margin-top: 2400px;
+    margin-left: 150px;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
+h5{
+    color: white;
+    position: absolute;
+    margin-top: 2900px;
+    margin-left: 580px;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
+h6{
+    color: white;
+    position: absolute;
+    margin-top: 3800px;
+    margin-left: 150px;
+    letter-spacing: 2px;
+    font-size: 20px;
+   
+}
+.numeros h6{
+    color: white;
+    position: absolute;
+    margin-top: 4515px;
+    margin-left: 80px;
+    letter-spacing: 2px;
+    font-size: 20px;
+
+}
+.numeros h5{
+    color: white;
+    position: absolute;
+    margin-top: 4515px;
+    margin-left: 255px;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.numeros h4{
+    color: white;
+    position: absolute;
+    margin-top: 4515px;
+    margin-left: 430px;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.boton {
+    position:absolute;
+    margin-top: 4390px;
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border: 100px;
+    border-radius: 10px ;
+    transition: all;
+    -webkit-transition: all;
+    -moz-transition: all;
+    -ms-transition: all;
+    -o-transition: all;
+}

@@ -1,0 +1,174 @@
+body{
+    background-image: url(/images/fondos.png);
+    font-family: 'Dela Gothic One', cursive;
+}
+.a1,.a2,.a3,.a4 {
+    text-decoration: none;
+    color: white;
+}
+.home{
+    position: absolute;
+    margin-left: 90px;
+    text-decoration: none;
+    color: white;
+}
+.contac{
+    position: absolute;
+    margin-left: 220px;
+    text-decoration: none;
+}
+
+.about{
+    position: absolute;
+    margin-left: 410px;
+    text-decoration: none;
+
+}
+.perfil{
+    position: absolute;
+    margin-left: 800px;
+}
+.presentacion{
+   position: absolute;
+   margin-top: 165px;
+   margin-left: 130px;
+   font-size: 13px;
+   color:#D9D9D9;
+   letter-spacing: 2px;
+}
+.uno, .dos, .tres, .cuatro{
+    position: absolute;
+    overflow: hidden;
+    margin: 20px;
+   
+}
+.uno{
+    position: absolute;
+   
+    margin-top: 0px;
+}
+.dos{
+    margin-left: 300px;
+    margin-top: 144px;
+}
+.tres{
+    margin-left: 580px;
+    margin-top: 144px;
+}
+.cuatro{
+    margin-left: 910px;
+    margin-top: 144px;
+}
+
+.container-trabajos{
+    position: absolute;
+    margin-top: 500px;
+    
+}
+.formulario{
+    position: absolute;
+    margin-top: 1100px;
+    margin-left: 50px;
+}
+h5{
+    position: absolute;
+    margin-top: 1150px;
+    font-size: 18px;
+    color: white;
+    margin-left: 400px;
+    letter-spacing: 1px;
+    
+}
+.rellenar{
+    position: absolute;
+    margin-top: 1100px;
+    font-size: 25px;
+    color: white;
+}
+.name {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 150px;
+}
+.gmail {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 150px ;
+}
+.mensajes{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 150px ;
+}
+.nombres, .correo {
+    position: absolute;
+    margin-top: 8px;
+
+}
+.nombres{
+    margin-left: 20px;
+    width: 400px;
+    height: 25px;
+}
+.correo{
+    margin-left: 38px;
+    width: 400px;
+    height: 25px;
+}
+.messaje{
+    position: absolute;
+    margin-left: 21px;
+    width: 800px;
+}
+.enviar{
+    position: absolute;
+    margin-top: 473px;
+    font-size: 35px;
+    margin-left: 570px;
+    font-family: 'Dela Gothic One', cursive;
+    background-color: #D9D9D9 ;
+    border-color: #D9D9D9;
+}
+b{
+    color: #00FFD3;
+}
+h2 a{
+    font-size: 22px;
+}
+h1{
+    font-size: 23px;
+}
+.buno, .bdos, .btres, .bcuatro{
+
+    transition: 0.5s;
+    object-fit: cover;
+  
+}
+.buno:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+.bdos:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+.btres:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+.bcuatro:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
